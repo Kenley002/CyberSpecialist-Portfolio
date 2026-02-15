@@ -33,7 +33,6 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
   * [WES Evaluation Summary]
   * [Here the link](https://www.credly.com/users/kenley-wickenson-moise/badges#credly)
 * [LinkedIn Professional Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)
-* https://www.linkedin.com/in/k-wickenson-moise-847b41157
 
 ---
 *"Securing the future by building resilient systems today."*
