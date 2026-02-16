@@ -8,9 +8,9 @@
   <summary><b>Click to expand my full contents</b></summary>
  
 * [👤 Professional Summary](#-professional-summary)
-* [🎓 Educational Foundation & Credentials](#-Educational-Foundation-&-Credentials)
-* [📚 Advanced Training (In-Progress)](#-Advanced-Training)
-* [🚀 Proposed Endeavor](#-Proposed-Endeavor)
+* [🎓 Educational Foundation, Credential, & Training (In-Progress)](#-Educational-Foundation-&-Credentials)
+  * [📚 Advanced Training (In-Progress)](#-Advanced-Training)
+  * [🚀 Proposed Endeavor](#-Proposed-Endeavor)
 * [🛠️ Technical Toolkit](#-Technical-toolkit)
 * [🚀 Featured Projects](#-featured-projects)
 * [🏅 Verified Evidence](#-verified-evidence)
@@ -33,7 +33,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 - **IBM Certificate:** SQL and Relational Databases 101 📊
 
 ## 📚 Advanced Training (In-Progress)
-- **HarvardX (CS50):** Web Programming with Python 🐍 and JavaScript<br>
+- **HarvardX (CS50):** Web Programming with Python 🐍 and JavaScript <img src="JS-icon.jpg" width="15"><br>
   *I am currently integrating these skills to build secure, database-driven web applications that follow "Security by Design" principles.*
 
 ## 🚀 Proposed Endeavor (NIW Focus)
