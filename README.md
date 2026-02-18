@@ -4,21 +4,23 @@
 #### Computer Scientist | Cybersecurity Specialist | Data Security | Full-Stack Security Engineer
 ---
 ## 📖 Table of Contents
+
 <details>
   <summary><b>Click to expand my full contents</b></summary>
- 
+
 * [👤 Professional Summary](#-professional-summary)
 * [🎓 Educational Foundation, Credential, & Training in Progress](#-Educational-Foundation-&-Credentials)
   * [🎓 Educational Foundation & Credentials](#-Educational-Foundation-&-Credentials) 
   * [📚 Advanced Training (In-Progress)](#-Advanced-Training)
   * [🚀 Proposed Endeavor](#-Proposed-Endeavor)
 * [🛠️ Technical Toolkit](#-Technical-toolkit)
-  * [🛡️ Security & Analysis](#-🛡️ Security-&-Analysis)
-  * [💻 Systems & Networking](#-💻 Systems-&-Networking)
-  * [📊 Databases & Scripting](#-📊 Databases-&-Scripting)
+  * [🛡️ Security & Analysis](#-Security-&-Analysis)
+  * [💻 Systems & Networking](#-Systems-&-Networking)
+  * [📊 Databases & Scripting](#-Databases-&-Scripting)
 * [🚀 Featured Projects](#-featured-projects)
 * [🏅 Verified Evidence](#-verified-evidence)
 * [📧 Contact Me](#-contact-me)
+      
 </details>
 
 ---
@@ -46,6 +48,52 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
 </details><br>
 
+## 🛠️ Technical Toolkit
+
+<table width="200%" align=center>
+  <tr>
+    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+      <h3 align="center">🛠️ Technical Toolkit & Security Stack</h3>
+      <div align="center">
+        <table width="95%" style="border-collapse: collapse;">
+          <tr>
+            <td width="35%" valign="top">
+              <b>🛡️ Security & Monitoring</b><br>
+              • SIEM Tools & IDS<br>
+              • Nmap & Wireshark<br>
+              • Vulnerability Scanning<br>
+              • Incident Response
+            </td>
+            <td width="33%" valign="top">
+              <b>💻 Infrastructure & Ops</b><br>
+              • Windows & Linux Admin<br>
+              • Network Arch. & Design<br>
+              • LAN/WAN & VPN<br>
+              • Virtualization & MDM
+            </td>
+            <td width="35%" valign="top">
+              <b>📊 Data & Development</b><br>
+              • SQL (IBM DB2, MySQL)<br>
+              • Python & Scripting<br>
+              • Database Hardening<br>
+              • Assembly Language
+            </td>
+          </tr>
+        </table>
+      </div>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-top: 15px;">
+        <i>Focused on maintaining the <b>CIA Triad</b> (Confidentiality, Integrity, Availability) across all managed assets.</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!--
 ## 🛠️ Technical Toolkit
 <details>
   <summary><b>Click here to expand my full technical stack</b></summary>
