@@ -134,14 +134,17 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 
 ---
 
-## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="140"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="45"></a>
+## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="140">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="45"></a>
 
 **Click the logo Linkedin for my Professional Profile & the button evidence above to see all evidence like:**
 * 🏅 **WES Academic Evaluation Credential**: U.S. Equivalency Verification.
 * 🛡️ **Google Cybersecurity Professional Certificate**: Issued by Google.
 * ⚙️ **CompTIA A+ Specialization**: Infrastructure & Hardware.
-* **LinkedIn Profile** : Professional Profile. <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Linkdin-icon.png" alt="Linkedin" width="30"></a>  -->
+* **LinkedIn Profile** : Professional Profile.
   
+<p align="center">
+  <a href="#top"><img src="back-button.png" alt="Back-Button" width="150"></a>
+</p>
 
 <!--
 ## 📧 Contact Me
