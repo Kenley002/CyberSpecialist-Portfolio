@@ -40,7 +40,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
       <h3 align="center">🏛️ Academic & Certification Roadmap</h3>
       <div align="center">
         <table width="100%">
-            <td width="30%" valign="top">
+            <td width="33%" valign="top">
               <b>🎓 Educational Foundation & Credentials</b><br>
               <ul>
                 <li>🏆 <b>B.S. in Computer Science</b><br>
