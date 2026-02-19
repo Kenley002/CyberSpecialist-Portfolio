@@ -134,12 +134,13 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 
 ---
 
-## 🏆 Verified Evidence
+## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="150"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Click the button below to see all evidence like:**
 * 🏅 **WES Academic Evaluation Credential**: U.S. Equivalency Verification.
 * 🛡️ **Google Cybersecurity Professional Certificate**: Issued by Google.
 * ⚙️ **[CompTIA A+ Specialization]**: Infrastructure & Hardware.<br>
-  * <a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="button-link.jpg" alt="Evidence" width="200"></a>
+
+<!--<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Evidence-Button-icon.png" alt="Evidence" width="150"></a>  -->
 * **[LinkedIn Profile](https://www.linkedin.com/in/k-wickenson-moise-847b41157)**: Professional Profile.
   
 
