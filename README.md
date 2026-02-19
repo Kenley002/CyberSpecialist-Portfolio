@@ -35,7 +35,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
     <td width="100%"></td>
   </tr>
   <tr>
-    <td width="100%" valign="top" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color:   
+    <td width="100%" valign="top" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color:  
         #0d1117;">
       <h3 align="center">🏛️ Academic & Certification Roadmap</h3>
       <div align="center">
@@ -76,9 +76,13 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 </table> 
 
 ## 🚀 Proposed Endeavor (NIW Focus)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
-* **Healthcare Data Protection:** Securing EHR (Electronic Health Records) and ensuring HIPAA-compliant system architectures.
-* **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
+My endeavor involves strengthening the cyber-resilience of U.S. critical infrastructure. I specialize in:
+* **Healthcare Data Protection to:**
+  * Securing EHR (Electronic Health Records)
+  * Ensuring HIPAA-compliant system architectures.
+* **FinTech Security:** Utilizing SQL database hardening and secure web protocols to:
+  * Prevent financial fraud
+  * And unauthorized data exfiltration.
 
 ## 🛠️ Technical Toolkit
 
