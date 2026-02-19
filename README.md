@@ -79,7 +79,11 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 * **Healthcare Data Protection:** Securing EHR (Electronic Health Records) and ensuring HIPAA-compliant system architectures.
 * **FinTech Security:** Utilizing SQL database hardening and secure web protocols to prevent financial fraud and unauthorized data exfiltration.
 
-
+<p align="center">
+  <a href="#top" style="text-decoration: none;">
+    <kbd>&nbsp; ↑ Back to Top &nbsp;</kbd>
+  </a>
+</p>
 
 
 
