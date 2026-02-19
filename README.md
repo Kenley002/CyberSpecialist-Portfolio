@@ -85,7 +85,9 @@ I am a Computer Science professional dedicated to architecting secure digital sy
   </a>
 </p>
 
-
+<p align="center">
+  <a href="#top"><b>↑ Back to Top</b></a>
+</p>
 
 
 
