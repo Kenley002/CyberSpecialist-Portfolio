@@ -80,36 +80,41 @@ I am a Computer Science professional dedicated to architecting secure digital sy
 
 ## 🛠️ Technical Toolkit
 
-<table width="200%">
+<table width="100%">
   <tr>
-    <td width="5%"></td>
+    <td width="95%"></td>
   </tr>
   <tr>
-    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+    <td width="300" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
       <h3 align="center">🛠️ Technical Toolkit & Security Stack</h3>
       <div align="center">
-        <table width="95%">
+        <table width="100%">
           <tr>
-            <td width="35%" valign="top">
+            <td width="300" valign="top">
               <b>🛡️ Security & Monitoring</b><br>
-              • SIEM Tools & IDS<br>
-              • Nmap & Wireshark<br>
-              • Vulnerability Scanning<br>
-              • Incident Response
+              <ul>
+                <li> SIEM Tools & IDS </li>
+                <li> Nmap & Wireshark </li>
+                <li> Vulnerability Scanning </li>
+                <li> Incident Response </li>
+              </ul>
             </td>
-            <td width="33%" valign="top">
-              <b>💻 Infrastructure & Ops</b><br>
-              • Windows & Linux Admin<br>
-              • Network Arch. & Design<br>
-              • LAN/WAN & VPN<br>
-              • Virtualization & MDM
+            <td width="300" valign="top">
+              <b>💻 Infrastructure, Platform, & Ops</b><br>
+              <ul>
+                <li> Windows, macOs, & Linux Admin</li>
+                <li> Network Arch. & Design </li>
+                <li> LAN/WAN & VPN </li>
+                <li> Virtualization & Mobile Device Management (MDM) </li>
+              </ul>
             </td>
-            <td width="35%" valign="top">
+            <td width="300" valign="top">
               <b>📊 Data & Development</b><br>
-              • SQL (IBM DB2, MySQL)<br>
-              • Python & Scripting<br>
-              • Database Hardening<br>
-              • Assembly Language
+              <ul>
+                <li> SQL (IBM DB2, MySQL) </li>
+                <li> Python & Scripting </li>
+                <li> Database Hardening </li>
+              </ul>
             </td>
           </tr>
         </table>
