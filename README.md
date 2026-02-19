@@ -149,7 +149,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 * **LinkedIn Profile** : Professional Profile.
 
 ## 📧 Contact Me
-* <img src="email-logo.png" width="20"> **Email:** kenleywm@gmail.com
+* <img src="email-logo.png" width="20"> **Email:** kenleywm@gmail.com            
 * <img src="phone-logo.png" width="25"> **Phone Number:** (845)281-1914
 
 
