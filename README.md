@@ -96,7 +96,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
       <div align="center">
         <table width="100%">
           <tr>
-            <td width="300" valign="top">
+            <td width="33%" valign="top">
               <b>🛡️ Security & Monitoring</b><br>
               <ul>
                 <li> SIEM Tools & IDS </li>
@@ -105,7 +105,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
                 <li> Incident Response </li>
               </ul>
             </td>
-            <td width="300" valign="top">
+            <td width="33%" valign="top">
               <b>💻 Infrastructure, Platform, & Ops</b><br>
               <ul>
                 <li> Windows, macOs, & Linux Admin</li>
@@ -114,7 +114,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
                 <li> Virtualization & Mobile Device Management (MDM) </li>
               </ul>
             </td>
-            <td width="300" valign="top">
+            <td width="33%" valign="top">
               <b>📊 Data & Development</b><br>
               <ul>
                 <li> SQL (IBM DB2, MySQL) </li>
