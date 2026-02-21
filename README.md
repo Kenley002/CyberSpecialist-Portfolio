@@ -108,7 +108,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
             <td width="33%" valign="top">
               <b>💻 Infrastructure, Platform, & Ops</b><br>
               <ul>
-                <li> Windows, macOs, & Linux Admin</li>
+                <li> Windows, macOS, & Linux Admin</li>
                 <li> Network Arch. & Design </li>
                 <li> LAN/WAN & VPN </li>
                 <li> Virtualization & Mobile Device Management (MDM) </li>
