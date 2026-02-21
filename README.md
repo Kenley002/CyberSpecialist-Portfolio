@@ -133,14 +133,13 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 </table>
 
 ## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
-* **[View the Project: Explore How Security Analysts Protect Networks And Information](./Project_1_Explore_How_Security_Analysts_Protect_Networks_And_Information.pdf)**
+* **[View the Project: How Security Analyst Protect Networks And Information](./How_Security_Analyst_Protect_Networks_And_Information.pdf)**
 * 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
 * <img src="Icons/network-hardening-icon2.jpg" alt="network-hardening" width="30"> **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
 * 🐍 **[Python Security Automation](./Python_Automation.md)**: (Coming Soon) Scripting for automated vulnerability scanning.
 
 ---
-
 ## 🏆 Verified Evidence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/kenley-wickenson-moise/badges#credly"><img src="Icons/Evidence-Button-icon.png" alt="Evidence" width="140" valign="middle">   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/k-wickenson-moise-847b41157)"><img src="Icons/Linkdin-icon.png" alt="Linkedin" width="45" valign="middle"></a>
 
 <i>Click the logo Linkedin for my Professional Profile & the button evidence above to see all evidence like:</i>
