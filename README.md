@@ -47,7 +47,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                  <ul>
                     <li>🏅 WES Evaluation Credential: Equivalent to U.S. Bachelor's Degree</li>
                   </ul>
-                <li> <img src="Icons/Google Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
+                <li> <img src="Icons/Google Cybersecurity.png" alt="Cybersecurity.png" width="22">Google Cybersecurity Professional Certificate</li>
                 <li><img src="CompTIA A+ Icon.png" width="25"> <b>IBM Certificate:</b></li>
                  <ul>
                     <li>⚙️ CompTIA A+ Specialization</li>
