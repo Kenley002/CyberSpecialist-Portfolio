@@ -133,7 +133,7 @@ My endeavor involves strengthening the cyber-resilience of U.S. critical infrast
 </table>
 
 ## <img width="24" height="26" alt="Pic2" src="https://github.com/user-attachments/assets/b8d57920-f321-4787-9eba-8c3b39eb90b9" /> Featured Projects
-* **[View the Project: How Security Analyst Protect Networks And Information](./How_Security_Analyst_Protect_Networks_And_Information.pdf)**
+* **[View the Project: How Security Analyst Protect Networks And Information.pdf](./Projects/How_Security_Analyst_Protect_Networks_And_Information.pdf)**
 * 🛡️ **[Security Analyst Role](./SECURITY_ANALYST_ROLE.md)**: An Exploration proactive of first-responder duties, defense strategies,        incident triage, and the CIA triad.
 * <img src="Icons/network-hardening-icon2.jpg" alt="network-hardening" width="30"> **[Network Hardening Project](./Network_Hardening_Project.md)**: Coming soon: A deep dive into securing home-office networks.
 * 📊 **[IBM SQL Project](https://github.com/Kenley002/CyberSpecialist-Portfolio)**: Coming soon - Verifiable data security and database hardening techniques.
