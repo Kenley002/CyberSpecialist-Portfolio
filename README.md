@@ -51,7 +51,7 @@ I am a Computer Science professional dedicated to architecting secure digital sy
                 <li><img src="Icons/CompTIA A+ Icon.png" alt="CompTIA A+ Icon"  width="25"> <b>IBM Certificate:</b></li>
                  <ul>
                     <li>⚙️ CompTIA A+ Specialization</li>
-                    <li>📊 SQL and Relational Databases 101</li>
+                    <li>📊 SQL and Relational Databases</li>
                   </ul>
               </ul>
             </td>          
